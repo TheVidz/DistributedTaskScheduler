@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/JyotinderSingh/task-queue/pkg/worker"
+	"github.com/TheVidz/DistributedTaskScheduler/pkg/worker"
 )
 
 var (

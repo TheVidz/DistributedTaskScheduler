@@ -68,6 +68,7 @@ This command builds the Docker images for the coordinator, scheduler, and worker
 
 Please note that you need to have Docker and Docker Compose installed on your machine to run this command.
 
+Also note, you need to 
 ## Interacting with the Cluster
 
 Clients can interact with the TaskMaster cluster to schedule tasks and query their status using HTTP requests:

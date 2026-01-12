@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/JyotinderSingh/task-queue/pkg/common"
-	pb "github.com/JyotinderSingh/task-queue/pkg/grpcapi"
+	"github.com/TheVidz/DistributedTaskScheduler/pkg/common"
+	pb "github.com/TheVidz/DistributedTaskScheduler/pkg/grpcapi"
 	"google.golang.org/grpc"
 )
 
